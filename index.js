@@ -22,6 +22,6 @@ function dec(n) {
   return n - 1;
 }
 
-function makrInt(n) {
-  return 
+function makeInt(n) {
+  return n.toString(
 }
